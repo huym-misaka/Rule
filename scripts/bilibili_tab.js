@@ -3,6 +3,7 @@ let body = JSON.parse($response.body);
 //参考 https://github.com/yjqiang/surge_scripts/tree/main
 
 // 首页的 tab 栏   可以注销精简
+/*
 body['data']['tab'] = [
     {
         id: 39,
@@ -11,6 +12,7 @@ body['data']['tab'] = [
         tab_id: '热爱生活',
         pos: 5
     },
+*/
 /*
     {
         id: 39,
@@ -19,6 +21,7 @@ body['data']['tab'] = [
         tab_id: '直播tab',
         pos: 1
     },
+*/
     {
         id: 40,
         name: '推荐',
@@ -27,6 +30,7 @@ body['data']['tab'] = [
         pos: 2,
         default_selected: 1
     },
+/*
     {
         id: 41,
         name: '热门',
@@ -34,6 +38,7 @@ body['data']['tab'] = [
         tab_id: 'hottopic',
         pos: 3
     },
+*/
     {
         id: 42,
         name: '追番',
@@ -41,6 +46,7 @@ body['data']['tab'] = [
         tab_id: 'bangumi',
         pos: 4
     },
+/*
     {
         id: 151,
         name: '影视',
