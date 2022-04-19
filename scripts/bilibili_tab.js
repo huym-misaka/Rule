@@ -3,8 +3,9 @@ let body = JSON.parse($response.body);
 //参考 https://github.com/yjqiang/surge_scripts/tree/main
 
 // 首页的 tab 栏   可以注销精简
-/*
+
 body['data']['tab'] = [
+/*
     {
         id: 39,
         name: '你所热爱的，就是你的生活.',
