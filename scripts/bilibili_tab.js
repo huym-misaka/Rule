@@ -28,6 +28,7 @@ body['data']['tab'] = [
         pos: 2,
         default_selected: 1
     },
+    */
     {
         id: 41,
         name: '热门',
@@ -35,7 +36,7 @@ body['data']['tab'] = [
         tab_id: 'hottopic',
         pos: 3
     },
-*/
+
     {
         id: 42,
         name: '追番',
@@ -76,7 +77,7 @@ body['data']['bottom'] =[
         tab_id: 'home',
         pos: 1
     },
-/*
+
     {
         id: 178,
         icon: 'http://i0.hdslb.com/bfs/archive/9c453a54eb83f5140cd098bf2e8ed8a599edc7fe.png',
@@ -86,7 +87,7 @@ body['data']['bottom'] =[
         tab_id: '频道Bottom',
         pos: 2
     },
-*/
+
     {
         id: 179,
         icon: 'http://i0.hdslb.com/bfs/archive/86dfbe5fa32f11a8588b9ae0fccb77d3c27cedf6.png',
