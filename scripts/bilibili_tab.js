@@ -20,6 +20,7 @@ body['data']['tab'] = [
         tab_id: '直播tab',
         pos: 1
     },
+    */
     {
         id: 40,
         name: '推荐',
@@ -28,7 +29,7 @@ body['data']['tab'] = [
         pos: 2,
         default_selected: 1
     },
-    */
+    /*
     {
         id: 41,
         name: '热门',
@@ -36,7 +37,7 @@ body['data']['tab'] = [
         tab_id: 'hottopic',
         pos: 3
     },
-
+*/
     {
         id: 42,
         name: '追番',
